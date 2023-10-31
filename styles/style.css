@@ -1,0 +1,25 @@
+body div {
+    display: flex;
+}
+
+div div {
+    height: 30px;
+    width: 30px;
+    border: 1px solid;
+
+}
+
+.noir{
+    background-color: black;
+}
+
+.vert{
+    background-color: green;
+}
+.orange{
+    background-color: orange;
+}
+
+.orangefoncé{
+    background-color: rgba(179, 80, 0, 0.793);
+}
