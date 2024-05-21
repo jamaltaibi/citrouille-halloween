@@ -1,6 +1,7 @@
-# Projet CSS Grid
+# Projet CSS Grid Citrouille d'Halloween
 
-Bienvenue dans mon projet CSS Grid ! Ce projet présente l'utilisation de la mise en page CSS Grid pour créer une disposition de boîtes colorées.
+Bienvenue dans mon projet CSS Grid Citrouille d'Halloween ! 
+Ce projet présente l'utilisation de la mise en page CSS Grid pour créer une disposition de boîtes colorées.
 
 ## Structure du Projet
 
